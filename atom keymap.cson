@@ -1,0 +1,29 @@
+'atom-text-editor':
+
+  'alt-h': 'editor:move-to-beginning-of-word'
+  'alt-n': 'editor:move-to-end-of-word'
+  'alt-shift-h': 'editor:select-to-beginning-of-word'
+  'alt-shift-n': 'editor:select-to-end-of-word'
+  'alt-c': 'editor:move-line-up'
+  'alt-t': 'editor:move-line-down'
+
+  'ctrl-shift-n':'core:select-right'
+  'ctrl-shift-h':'core:select-left'
+  'ctrl-shift-c':'core:select-up'
+  'ctrl-shift-t':'core:select-down'
+
+  'ctrl-r': 'editor:move-to-end-of-line'
+  'ctrl-g': 'editor:move-to-beginning-of-line'
+  'ctrl-shift-r': 'editor:select-to-end-of-line'
+  'ctrl-shift-g': 'editor:select-to-beginning-of-line'
+
+
+
+'atom-workspace':
+  'ctrl-n': 'core:move-right'
+  'ctrl-h': 'core:move-left'
+  'ctrl-c': 'core:move-up'
+  'ctrl-t': 'core:move-down'
+  'ctrl-y': 'core:copy'
+  'ctrl-p': 'core:paste'
+  'alt-y': 'core:cut'
